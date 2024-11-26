@@ -1,0 +1,8 @@
+
+---
+
+#### **.gitignore File (Optional)**
+
+If you're using Git to track your files and you want to ignore specific files or directories (like Python cache files or IDE settings), you can include a `.gitignore` file.
+
+**File: `.gitignore`**
